@@ -75,13 +75,12 @@ button:focus {
 /* Header */
 
 .header{
-    background-color: black;
     position: fixed;
     top: 0;
     width: 100%;
     padding: 1rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
     align-items: center;
     z-index: 1;
 }
